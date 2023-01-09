@@ -1,0 +1,48 @@
+p {
+    color: #043a7d;
+    font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  }
+
+h1 {
+  color: #2a4d79;
+  font-size: 30px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 1px 1px 1px #192e48;
+
+} 
+
+ul{
+  color: #57909e;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+a {
+  color: #57909e;
+  font-size: 18px;
+  display: block;  text-align:center;
+  text-shadow: 0.5px 0.5px 0.5px #2e4a51;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+html {
+  font-family: 'Nunito', sans-serif;
+  background-color: #e3ecec;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #d6d9d9;
+  padding: 0 90px 80px 60px;
+  border: 2px solid #57909e;
+}
+
